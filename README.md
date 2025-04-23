@@ -95,7 +95,3 @@ Os testes foram feitos usando o Postman:
    Bearer seu_token_aqui
    ```
 4. Com isso é possível acessar os demais endpoints protegidos
-
-## Observações
-
-Este projeto foi baseado em um protótipo criado no Figma para a parte de front-end, mas aqui está focado apenas no backend. JWT foi implementado manualmente sem bibliotecas externas além do `jjwt`.
